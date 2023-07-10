@@ -6,7 +6,8 @@
 
 .section-bg{
   background-image:url('./assets/bg1.svg') ;
-  background-size: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
   /* filter: blur(6px); */
 }
 .contain-annout{
