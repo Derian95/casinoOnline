@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.section-bg{
+  background-image:url('./assets/bg1.svg') ;
+  background-size: contain;
+  /* filter: blur(6px); */
+}
+.contain-annout{
+  backdrop-filter: blur(4px);
+
+}
